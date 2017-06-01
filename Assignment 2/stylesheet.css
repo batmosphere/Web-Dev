@@ -1,0 +1,79 @@
+body
+{
+	background-color: #D2DFD8;
+	margin: 0px;
+}
+
+#bitslogo
+{
+	height: 80px;
+	width: 80px;
+	float: left;
+	padding-top: 30px;
+	padding-left: 50px;
+}
+
+#mainpart
+{	
+	background-color: white;
+	border: 1px black solid;
+	margin: 70px 300px 70px 320px;
+	height: 500px;
+	width: 700px;
+}
+
+#header2
+{
+	float: right;
+	font-weight: bold;
+	font-size: 20px;
+	padding-right: 50px;
+}
+
+#link
+{
+	position: relative;
+	top: 80px;
+	left: 468px;
+
+}
+
+#clear
+{
+	clear: both;
+}
+
+#form1
+{	
+	padding-top: 30px;
+	padding-left: 50px;
+}
+
+#personal_info
+{
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 18px;
+}
+
+.italicized
+{	
+	font-style: italic;
+	padding-left: 70px;
+	position: relative;
+	bottom: 20px;
+
+}
+
+#text_area
+{
+	height: 70px;
+	width: 250px;
+	margin-bottom: 20px;
+}
+
+#sub
+{
+	width: 100px;
+	height: 25px;
+}
